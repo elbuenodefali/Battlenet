@@ -1,2 +1,2 @@
 # Battlenet
-Test create account with Python and Selenium
+Testing create new account form with Python and Selenium
